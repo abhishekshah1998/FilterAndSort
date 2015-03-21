@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-682c758145c153de272fabae56a9ad85c21e403e.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/libs/jdom-2.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9f6909efb7121532c8dd5c2797ed35a5dddc120d">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/build/intermediates/pre-dexed/debug/jdom-2.0.3-0fb7e2e81cba2e7a28615963cc97323eb0d4499b.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da8ad99330849f3485026c7bb7cd5863a0e9c663.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/FilterAndSort/app/build/intermediates/pre-dexed/debug/classes-e0a6b4ed08738ce2d60337ac6501779715c78e00.jar" />
+    </item>
+
+</items>
